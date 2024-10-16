@@ -1,5 +1,5 @@
 - Meu nome joão Gabriel da Conceição Pedroso 🇧🇷
-- 👀 I’m interested in a litte bit of everything
+- Estou Estudando no Alura Start 💻
 - 🌱 I’m currently learning ALOT
 - 💞️ I’m looking to collaborate on idk idc
 - 📫 How to reach me: u better not
