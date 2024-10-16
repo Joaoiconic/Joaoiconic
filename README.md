@@ -1,6 +1,6 @@
 - Meu nome joão Gabriel da Conceição Pedroso 🇧🇷
 - Estou Estudando no Alura Start 💻
-- 🌱 I’m currently learning ALOT
+- Estou me desenvolvendo na linguagem JavaScript 😄
 - 💞️ I’m looking to collaborate on idk idc
 - 📫 How to reach me: u better not
 - 😄 Pronouns: USA
