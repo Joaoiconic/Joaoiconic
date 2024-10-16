@@ -1,10 +1,7 @@
 - Meu nome joão Gabriel da Conceição Pedroso 🇧🇷
 - Estou Estudando no Alura Start 💻
 - Estou me desenvolvendo na linguagem JavaScript 😄
-- 💞️ I’m looking to collaborate on idk idc
-- 📫 How to reach me: u better not
-- 😄 Pronouns: USA
-- ⚡ Fun fact: don't have any
+- Utilizo esse espaço para a minha organixação e compartilhamento dos meus projetos desenvolvidos 😼
 
 <!---
 Joaoiconic/Joaoiconic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
