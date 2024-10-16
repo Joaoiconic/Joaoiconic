@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joao pedroso :)
+- Meu nome joão Gabriel da Conceição Pedroso 🇧🇷
 - 👀 I’m interested in a litte bit of everything
 - 🌱 I’m currently learning ALOT
 - 💞️ I’m looking to collaborate on idk idc
